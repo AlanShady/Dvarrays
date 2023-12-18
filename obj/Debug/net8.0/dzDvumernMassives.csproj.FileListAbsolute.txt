@@ -1,0 +1,14 @@
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzDvumernMassives\obj\Debug\net8.0\dzDvumernMassives.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzDvumernMassives\obj\Debug\net8.0\dzDvumernMassives.AssemblyInfoInputs.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzDvumernMassives\obj\Debug\net8.0\dzDvumernMassives.AssemblyInfo.cs
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzDvumernMassives\obj\Debug\net8.0\dzDvumernMassives.csproj.CoreCompileInputs.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzDvumernMassives\bin\Debug\net8.0\dzDvumernMassives.exe
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzDvumernMassives\bin\Debug\net8.0\dzDvumernMassives.deps.json
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzDvumernMassives\bin\Debug\net8.0\dzDvumernMassives.runtimeconfig.json
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzDvumernMassives\bin\Debug\net8.0\dzDvumernMassives.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzDvumernMassives\bin\Debug\net8.0\dzDvumernMassives.pdb
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzDvumernMassives\obj\Debug\net8.0\dzDvumernMassives.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzDvumernMassives\obj\Debug\net8.0\refint\dzDvumernMassives.dll
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzDvumernMassives\obj\Debug\net8.0\dzDvumernMassives.pdb
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzDvumernMassives\obj\Debug\net8.0\dzDvumernMassives.genruntimeconfig.cache
+C:\Users\shami\OneDrive\Рабочий стол\Учеба\языки программирования\dzDvumernMassives\obj\Debug\net8.0\ref\dzDvumernMassives.dll
